@@ -2,7 +2,8 @@
 
 
 Simon game on ATtiny45/85 microcontroller
-                            (https://github.com/ElectronPlant/Simon_says_ATtiny/blob/master/Documentation/Simon_says_complete_assembly.jpg)
+
+                           ![Simon_says_ATtiny](https://github.com/ElectronPlant/Simon_says_ATtiny/blob/master/Documentation/Simon_says_complete_assembly.jpg)
 
 Simon_says_ATtiny is a simple project implementing the Simon game on a PCB controlled from a ATtiny45/85.
 
