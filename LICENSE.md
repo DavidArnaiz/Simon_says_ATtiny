@@ -3,7 +3,7 @@ License Information
 
 This project composed from: hardware files, code and documentation; is released under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license (https://creativecommons.org/licenses/by-sa/4.0/).
 
-Note: This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
+Note: This is a human-readable summary of (and not a substitute for) the license (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
 
 You are free to:
