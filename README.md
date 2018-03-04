@@ -2,6 +2,16 @@
 
 
 Simon game on ATtiny45/85 microcontroller
+![Simon_says_ATtiny](https://github.com/ElectronPlant/Simon_says_ATtiny/blob/master/Documentation/Simon_says_complete_assembly.jpg)
+
+Simon_says_ATtiny is a simple project implementing the Simon game on a PCB controlled from a ATtiny45/85.
+
+Repository contents:
+--------------------
+
+ +) Documentation: BOM file, Technical specification, drawings...
+ +) Kicad files: schematic, board and all the required files.
+ +) Firmware: Arduino code.
 
 Game description:
 -----------------
