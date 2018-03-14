@@ -13,7 +13,7 @@ Repository contents:
 
  +) Documentation: BOM file, Technical specification, drawings...
  
- +) Kicad files: schematic, board and all the required files.
+ +) Hardware: Kicad project files, schematic in PDF and Gerber files
  
  +) Firmware: Arduino code.
 

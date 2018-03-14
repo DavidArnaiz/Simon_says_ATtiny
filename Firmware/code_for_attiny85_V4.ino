@@ -174,7 +174,7 @@ boolean checksequence(byte* sec, byte len) { // Check if the player copies the
                                              // sequence (return true) or of not (return false).
   for (byte i = 0; i < len; i++) {  //repeat this for every element in the array
     unsigned long ttime = millis();  // sets the time to reset the game if no key is pressed
-    // Whait for no button to be pressed
+    // Wait for no button to be pressed
     while (readbutton() != 0) {
       delay(10);
       if (millis() - ttime > 30000) { // check if the reset time has passed
@@ -240,7 +240,7 @@ void intro() { // Play intro animation
   PORTB = B00000100;
   tone(SPEAKER, 300, 200);
   delay(500);
-  // Trun green on
+  // Turn green on
   tone(SPEAKER, 200, 100);
   PORTB = B00000011;
   delay(500);
